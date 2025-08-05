@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Im contained within my parent</name>
+   <tag></tag>
+   <elementGuidId>6ca9b603-fd8e-4613-860d-940c378fc46d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;draggableExample-tabpane-containerRestriction&quot;]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.draggable.ui-widget-content.m-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c80079c0-7e22-4086-8765-25886bd16da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>draggable ui-widget-content m-3</value>
+      <webElementGuid>a8916007-18d8-4cf5-a92f-8f91a341e4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I'm contained within my parent</value>
+      <webElementGuid>584a9ec3-6d17-45ac-a3d5-74f1e0e169f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;draggableExample-tabpane-containerRestriction&quot;)/div[@class=&quot;draggable ui-widget-content m-3&quot;]</value>
+      <webElementGuid>321daf4d-7a68-4770-bcc0-14b92486c4ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='draggableExample-tabpane-containerRestriction']/div[2]</value>
+      <webElementGuid>7c013777-2680-44a1-bf25-10fe58c8cd08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only Y'])[1]/following::div[4]</value>
+      <webElementGuid>c0021620-b1be-42b4-bfd6-cb66b758f67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will always stick to the center'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b10eaf7-c18b-4474-8786-9dc484c52506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>7aea798d-d0bc-4639-8e61-8854e6010ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;I&quot; , &quot;'&quot; , &quot;m contained within my parent&quot;) or . = concat(&quot;I&quot; , &quot;'&quot; , &quot;m contained within my parent&quot;))]</value>
+      <webElementGuid>8e812927-a69e-47fe-a2d7-2234a51af42f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

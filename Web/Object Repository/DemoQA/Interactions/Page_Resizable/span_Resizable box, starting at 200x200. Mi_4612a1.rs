@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Resizable box, starting at 200x200. Mi_4612a1</name>
+   <tag></tag>
+   <elementGuidId>f9376ef8-f4cd-4fc2-9f48-b69896140892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resizableBoxWithRestriction']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.react-resizable-handle.react-resizable-handle-se</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb05bfa1-2a83-4721-8608-c056cc0f668c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-resizable-handle react-resizable-handle-se</value>
+      <webElementGuid>6c3dc26a-0dcb-4ba1-b15e-4e767373b8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resizableBoxWithRestriction&quot;)/span[@class=&quot;react-resizable-handle react-resizable-handle-se&quot;]</value>
+      <webElementGuid>bcc0c927-17db-49dc-8349-e6eab73264a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resizableBoxWithRestriction']/span</value>
+      <webElementGuid>4516f0ff-a0a7-430b-8a6c-e779bff3580b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>39f6247e-91e0-40b4-af59-cee5e984f412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

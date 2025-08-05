@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Green_css-xb97g8 auto-complete__multi-v_216c45</name>
+   <tag></tag>
+   <elementGuidId>103a2b4b-4515-4385-92da-004f972da48f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoCompleteMultipleContainer']/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-xb97g8.auto-complete__multi-value__remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1129f77e-2d86-475b-913b-de20bded6e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-xb97g8 auto-complete__multi-value__remove</value>
+      <webElementGuid>57271009-69e0-4b3d-bb3d-ecc229b8716f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoCompleteMultipleContainer&quot;)/div[@class=&quot;auto-complete__control auto-complete__control--is-focused css-1pahdxg-control&quot;]/div[@class=&quot;auto-complete__value-container auto-complete__value-container--is-multi auto-complete__value-container--has-value css-1hwfws3&quot;]/div[@class=&quot;css-1rhbuit-multiValue auto-complete__multi-value&quot;]/div[@class=&quot;css-xb97g8 auto-complete__multi-value__remove&quot;]</value>
+      <webElementGuid>f7e1c594-aa1f-44c6-b55d-1f911f3fd7ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoCompleteMultipleContainer']/div/div/div/div[2]</value>
+      <webElementGuid>c5eb855a-3b66-48cf-832a-86d0cde043e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Green'])[1]/following::div[1]</value>
+      <webElementGuid>19c67a7d-749d-4a2c-95e6-f74e7ea763d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type multiple color names'])[1]/following::div[6]</value>
+      <webElementGuid>ae222b24-9c89-4f92-a2f7-9746578f21ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5d7fcb9-f253-49a4-8460-424b89802668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White'])[1]/preceding::div[4]</value>
+      <webElementGuid>e2c9d3b5-8177-42f0-9be5-c06c5fc3d0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>ce9f97fc-35ce-45a8-a117-d801684f976e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

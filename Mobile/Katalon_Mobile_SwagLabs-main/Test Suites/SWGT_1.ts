@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SWGT_1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>26dee3f3-c50f-4a7e-8e0e-c68bddef3464</testSuiteGuid>
+   <testCaseLink>
+      <guid>a9e887d5-fe75-4782-925d-90e43f77e5f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SWT_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>833fe8ea-8ecd-45e5-b64b-e096f0626d78</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataLogin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>833fe8ea-8ecd-45e5-b64b-e096f0626d78</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>8d9b148a-e233-4fe7-bfae-df2d05733a31</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>833fe8ea-8ecd-45e5-b64b-e096f0626d78</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3a12ed70-8416-46e3-8d51-e43bae1bb78f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

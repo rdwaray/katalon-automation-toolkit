@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>d618e90a-7338-4711-a08f-7af278ecc149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/iframe[1][count(. | //*[@srcdoc = '&lt;p>Child Iframe&lt;/p>' and @ref_element = 'Object Repository/DemoQA/Alert, Frames, and Windows/Page_NestedFrames/iframe_Nested Frames_frame1']) = count(//*[@srcdoc = '&lt;p>Child Iframe&lt;/p>' and @ref_element = 'Object Repository/DemoQA/Alert, Frames, and Windows/Page_NestedFrames/iframe_Nested Frames_frame1'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>5a76d72b-5251-4f9a-965d-9199c8845d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcdoc</name>
+      <type>Main</type>
+      <value>&lt;p>Child Iframe&lt;/p></value>
+      <webElementGuid>af70cc38-004a-41e3-867d-d95ba2ebed34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/iframe[1]</value>
+      <webElementGuid>7b3bfd5d-4117-4e6f-925c-7e77a961f5a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/DemoQA/Alert, Frames, and Windows/Page_NestedFrames/iframe_Nested Frames_frame1</value>
+      <webElementGuid>948f6ee4-4925-4755-bc05-db014608dabe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>9e3413ac-e77c-45f0-bf17-8589d2644dfd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Red_1</name>
+   <tag></tag>
+   <elementGuidId>6e52f249-40b8-44a7-a602-88fcb7ac9705</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoCompleteMultipleContainer']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.auto-complete__value-container.auto-complete__value-container--is-multi.auto-complete__value-container--has-value.css-1hwfws3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8169b364-c2ae-4500-b858-c835803a2e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auto-complete__value-container auto-complete__value-container--is-multi auto-complete__value-container--has-value css-1hwfws3</value>
+      <webElementGuid>b8b450b5-aa2c-423d-8da8-308e08bfb806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Red</value>
+      <webElementGuid>86787860-1a7f-40a9-88bc-1e3d6d34476e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoCompleteMultipleContainer&quot;)/div[@class=&quot;auto-complete__control auto-complete__control--is-focused auto-complete__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;auto-complete__value-container auto-complete__value-container--is-multi auto-complete__value-container--has-value css-1hwfws3&quot;]</value>
+      <webElementGuid>d2ba140b-128d-4e9b-b147-b11291906445</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoCompleteMultipleContainer']/div/div</value>
+      <webElementGuid>d4848cf8-1a78-44fe-a4a7-9374cfffcbe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type multiple color names'])[1]/following::div[3]</value>
+      <webElementGuid>f4acb2c3-fc6d-4215-ae02-2f55a2aa439e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Complete'])[2]/following::div[6]</value>
+      <webElementGuid>45b8f191-d5ed-4859-842e-8f3ef863cdec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type single color name'])[1]/preceding::div[9]</value>
+      <webElementGuid>f4068b5b-d9af-4b84-85f6-58762a0691e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>8bba6844-3466-4898-bfca-73eb568e3155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Red' or . = 'Red')]</value>
+      <webElementGuid>3c1ca3d4-6ff0-4034-91a4-fe9ad5d5929f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

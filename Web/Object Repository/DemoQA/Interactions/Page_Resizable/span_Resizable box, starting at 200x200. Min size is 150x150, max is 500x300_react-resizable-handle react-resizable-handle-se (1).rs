@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Resizable box, starting at 200x200. Min size is 150x150, max is 500x300_react-resizable-handle react-resizable-handle-se (1)</name>
+   <tag></tag>
+   <elementGuidId>0ccfeecc-7547-40ab-92c2-190c7fa9602d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resizableBoxWithRestriction']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.react-resizable-handle.react-resizable-handle-se</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0fa2302-c40b-4359-ac65-555019e3a579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-resizable-handle react-resizable-handle-se</value>
+      <webElementGuid>ae1af801-41af-4abd-9463-0d91e190e536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resizableBoxWithRestriction&quot;)/span[@class=&quot;react-resizable-handle react-resizable-handle-se&quot;]</value>
+      <webElementGuid>80bdb701-2618-4b55-b90b-8e9ea6f6c79d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resizableBoxWithRestriction']/span</value>
+      <webElementGuid>be386caf-f499-4a53-ae0d-f96ed690da4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>b1717499-ac20-498e-a2cd-623aae19f53c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

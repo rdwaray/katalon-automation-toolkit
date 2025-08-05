@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I will always stick to the center</name>
+   <tag></tag>
+   <elementGuidId>b9391a12-f1bc-4273-a944-cf4ef380ccc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cursorCenter']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cursorCenter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a61c3b4f-e907-4cae-bbe9-4478e1c1e4a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cursorCenter</value>
+      <webElementGuid>c8ccc702-5c3b-4aff-a1e2-d9a6e2c36ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drag-box ui-draggable ui-draggable-handle</value>
+      <webElementGuid>d300fef6-883c-4257-b75f-49fb906deb52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I will always stick to the center</value>
+      <webElementGuid>a90fdfb7-8a79-4f1d-9da6-8da57d9a84b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cursorCenter&quot;)</value>
+      <webElementGuid>ca9a41f5-f6a0-4e73-bbe9-6882598ad9a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cursorCenter']</value>
+      <webElementGuid>b33d66c3-4861-4375-9b8a-0c6acf376bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='draggableExample-tabpane-cursorStyle']/div/div</value>
+      <webElementGuid>38db11c8-e6a1-4dec-9ba6-2cdbbaf8bcc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My cursor is at top left'])[1]/preceding::div[1]</value>
+      <webElementGuid>c5527dcf-d465-4f43-92ff-5cdf418308a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My cursor is at bottom'])[1]/preceding::div[2]</value>
+      <webElementGuid>a7aafed0-de74-4eb5-9cc8-ca33b7d50b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I will always stick to the center']/parent::*</value>
+      <webElementGuid>16e4eeea-7a74-4aa4-a739-4fdd8eb53284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>6b90b031-f514-48a7-9110-df505cc63e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cursorCenter' and (text() = 'I will always stick to the center' or . = 'I will always stick to the center')]</value>
+      <webElementGuid>5ec39ac2-2eb8-4e17-8fa9-b5141121edf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

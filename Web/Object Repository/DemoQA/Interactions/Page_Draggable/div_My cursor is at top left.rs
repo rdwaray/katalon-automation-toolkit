@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My cursor is at top left</name>
+   <tag></tag>
+   <elementGuidId>684373fe-d826-4c19-9f87-6e2fabecf882</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cursorTopLeft']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cursorTopLeft</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee5cd854-227f-4269-8ed2-0f4ab4db9c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cursorTopLeft</value>
+      <webElementGuid>86d1fbc1-1156-4746-886c-2aac0362873a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drag-box ui-draggable ui-draggable-handle</value>
+      <webElementGuid>e3b19dfa-a411-4684-b878-bff4ee027f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My cursor is at top left</value>
+      <webElementGuid>18900eda-db7c-4ed1-a4da-45afdc654601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cursorTopLeft&quot;)</value>
+      <webElementGuid>68e92848-ce26-4d98-a716-01ba8b9dc252</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cursorTopLeft']</value>
+      <webElementGuid>b175bd67-82e9-4214-b4a0-7e3eafacb5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='draggableExample-tabpane-cursorStyle']/div/div[2]</value>
+      <webElementGuid>aefd07d0-634e-4198-82ed-c52e7761e5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will always stick to the center'])[1]/following::div[1]</value>
+      <webElementGuid>bfe6b19d-5af9-48fe-b959-9da04a7c6520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My cursor is at bottom'])[1]/preceding::div[1]</value>
+      <webElementGuid>0548e3a9-3f7f-40ca-b1d6-de3230090cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::div[14]</value>
+      <webElementGuid>fc99ba91-3307-49d2-a6e8-31f5526067c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My cursor is at top left']/parent::*</value>
+      <webElementGuid>fcaa1014-8565-423d-a58a-d650815cd0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]</value>
+      <webElementGuid>9a456e33-e9aa-4ac9-8714-f9d6aab1c449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cursorTopLeft' and (text() = 'My cursor is at top left' or . = 'My cursor is at top left')]</value>
+      <webElementGuid>2047fa52-12cb-4d07-9e2f-8dbb5efc0561</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

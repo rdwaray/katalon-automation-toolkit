@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Outer droppableInner droppable (greedy) c</name>
+   <tag></tag>
+   <elementGuidId>889ef170-4c8c-4b75-9448-37f2c870c323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='greedyDropBox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#greedyDropBox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>559f395e-267a-434f-ba16-b8d94cd673bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>greedyDropBox</value>
+      <webElementGuid>7305469e-d8e0-4f1e-bb69-acd233e25e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop-box-outer mt-4 ui-droppable</value>
+      <webElementGuid>2af814a2-24cd-418c-b64a-35d3f1b7ad95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outer droppableInner droppable (greedy)</value>
+      <webElementGuid>8b2add69-1c30-4250-8e2f-ee108d736008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;greedyDropBox&quot;)</value>
+      <webElementGuid>e941ccfd-b6fd-4176-a460-4c91f6306598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='greedyDropBox']</value>
+      <webElementGuid>6fcf11b7-eacb-4743-92e2-4d1ba054571f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ppDropContainer']/div[2]/div[2]</value>
+      <webElementGuid>cde09500-4153-422e-9232-785607c99c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag Me'])[1]/following::div[4]</value>
+      <webElementGuid>50b68c20-b953-423b-8a65-29bb6d4640ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will Revert'])[1]/preceding::div[2]</value>
+      <webElementGuid>baca3bd4-5b21-4d30-85b0-3c981bf4e0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Revert'])[1]/preceding::div[3]</value>
+      <webElementGuid>9eb0a3da-bc16-4c63-8f66-489e321094d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>1f4312d5-ae88-4965-9634-082c431f7bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'greedyDropBox' and (text() = 'Outer droppableInner droppable (greedy)' or . = 'Outer droppableInner droppable (greedy)')]</value>
+      <webElementGuid>42a849c6-a9b2-466b-ae4c-8d6670ba18a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Im contained within the box</name>
+   <tag></tag>
+   <elementGuidId>e6f9ed20-90c2-48f7-b657-7a3852e73b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='containmentWrapper']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.draggable.ui-widget-content.ui-draggable.ui-draggable-handle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40fb3282-45ca-4abf-bb34-7a1a1049fa7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>draggable ui-widget-content ui-draggable ui-draggable-handle</value>
+      <webElementGuid>6250b7ac-e355-4589-b37a-1deef483deef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I'm contained within the box</value>
+      <webElementGuid>7c51a171-3aff-497f-bd08-d8bd023fde92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;containmentWrapper&quot;)/div[@class=&quot;draggable ui-widget-content ui-draggable ui-draggable-handle&quot;]</value>
+      <webElementGuid>9f8b99ea-ffd0-4d2c-9ae6-304ff4ac2632</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containmentWrapper']/div</value>
+      <webElementGuid>7ddabbbc-77be-4adf-92d3-f69b238dcde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only Y'])[1]/following::div[3]</value>
+      <webElementGuid>7138b05e-7334-4a79-b2c3-cc84539fd634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only X'])[1]/following::div[4]</value>
+      <webElementGuid>9b3b8af0-57d5-4e58-90b1-c10f7f708238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will always stick to the center'])[1]/preceding::div[2]</value>
+      <webElementGuid>a34916bd-0490-4123-a06a-bae491d81728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div</value>
+      <webElementGuid>4c105e5b-79ef-4382-93be-3fe15b4cccfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;I&quot; , &quot;'&quot; , &quot;m contained within the box&quot;) or . = concat(&quot;I&quot; , &quot;'&quot; , &quot;m contained within the box&quot;))]</value>
+      <webElementGuid>8fb79078-a56f-49ea-b95c-3c2ebcc14b30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
