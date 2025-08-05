@@ -2,8 +2,8 @@ Toolkit berisi automation untuk Web, Mobile, dan Tool Converter berbasis Katalon
 
 ## Projects
 - [Web Automation](./Web/)
-- [Mobile Testing](./mobile/README.md)
-- [Regex Step Converter](./tools/README.md)
+- [Mobile Testing](.Mobile/Katalon_Mobile_SwagLabs-main)
+- [Regex Step Converter](.Tools/Simple_Regex-main)
 
 ## Shared Components
 - Reusable Utilities
